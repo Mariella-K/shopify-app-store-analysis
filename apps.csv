@@ -1,0 +1,501 @@
+app_id,app_name,developer,category_name,launch_date,has_free_plan,monthly_price_usd
+1,ProShip Max,Astra Labs,orders and shipping,10/13/2018,No,49.99
+2,EasyCart Tool,Peak Apps,REVIEWS AND RATINGS,2/12/2019,No,49.99
+3,FreshSearch Pro,Helix Studios,Productivity,5/15/2020,Yes,
+4,BrilliantSearch Pro,Beacon Digital,REVIEWS AND RATINGS,9/13/2018,No,19.99
+5,BrilliantBuild Flow,Zenith Software,Marketing,9/16/2021,Yes,
+6,BoostBox Lite,Atlas Studios,Customer Support,12/29/2019,Yes,
+7,MasterStack Max,Fortis Studios,search and navigation,2/17/2020,Yes,
+8,QuickEdit X,Astra Software,orders and shipping,2/14/2023,No,49.99
+9,TopBox App,Astra Studios,orders and shipping,3/6/2022,No,14.99
+10,UltimatePulse AI,PixelPerfect Apps,email marketing,8/13/2018,Yes,
+11,BrilliantReview X,Cascade Digital,REVIEWS AND RATINGS,5/30/2019,No,99.99
+12,MasterBox Pro,Beacon Tech,REVIEWS AND RATINGS,4/10/2022,Yes,
+13,BrilliantCart App,Atlas Studios,REVIEWS AND RATINGS,5/7/2023,No,29.99
+14,AceSync Tool,BlueRiver Labs,Loyalty and Rewards,4/24/2023,Yes,
+15,RapidSales App,Ironwood Digital,REVIEWS AND RATINGS,12/5/2018,Yes,
+16,PowerSync X,Ironwood Solutions,search and navigation,1/17/2023,No,4.99
+17,SmartMind 360,Fortis Labs,Marketing,5/26/2018,No,4.99
+18,FreshMind AI,Fortis Digital,SEO,4/13/2020,Yes,
+19,MegaHub AI,Beacon Apps,Subscriptions,8/31/2021,No,4.99
+20,UltimateHub App,Astra Digital,orders and shipping,11/26/2022,No,19.99
+21,RapidShip Plus,Helix Labs,STORE DESIGN,4/12/2020,No,9.99
+22,RapidForge App,Zenith Tech,orders and shipping,6/7/2023,Yes,
+23,SuperEmail Pro,GoldStandard Digital,REVIEWS AND RATINGS,2/26/2023,No,9.99
+24,EasyTrack X,Nimbus Labs,Loyalty and Rewards,5/2/2021,Yes,
+25,BoostCart Lite,Compass Solutions,orders and shipping,6/28/2019,Yes,
+26,EasyShip AI,Linear Software,Sales and Conversion,1/6/2021,Yes,
+27,RapidSync Flow,Kestrel Group,Marketing,9/29/2021,No,14.99
+28,UltimateSearch Studio,Linear Labs,Productivity,12/4/2019,Yes,
+29,BoldSearch Pro,PixelPerfect Systems,email marketing,7/21/2019,Yes,
+30,PrimeStack Max,Evergreen Group,Marketing,8/18/2018,Yes,
+31,FreshStack App,Evergreen Studios,Marketing,9/24/2019,Yes,
+32,AceStack X,Linear Studios,orders and shipping,11/6/2022,Yes,
+33,MegaShip App,Beacon Solutions,SEO,3/22/2023,No,49.99
+34,BoldTrack Tool,,Inventory Management,8/8/2022,No,9.99
+35,TopEdit Studio,,Customer Support,8/6/2021,No,49.99
+36,SuperHub Flow,Peak Software,Reporting and Analytics,1/17/2023,No,14.99
+37,SleekStack Lite,Beacon Labs,Customer Support,6/2/2020,Yes,
+38,MagicPulse Studio,Ironwood Systems,Customer Support,4/4/2020,No,29.99
+39,TopOrder Flow,GoldStandard Tech,Reporting and Analytics,1/27/2021,No,14.99
+40,PrimeBox AI,Ironwood Labs,REVIEWS AND RATINGS,8/27/2020,No,99.99
+41,MagicPulse Lite,Kestrel Solutions,Sales and Conversion,8/4/2022,No,9.99
+42,GeniusForge Flow,Helix Software,search and navigation,4/28/2020,No,29.99
+43,BoldConnect Tool,Vanguard Apps,SEO,10/29/2022,No,4.99
+44,PrimeEmail 360,Fortis Software,search and navigation,10/1/2018,No,49.99
+45,SuperBox Flow,Beacon Group,Reporting and Analytics,8/29/2022,No,19.99
+46,SleekForge Lite,Fortis Tech,search and navigation,6/8/2018,No,9.99
+47,RapidReview App,Vanguard Labs,Reporting and Analytics,11/22/2021,Yes,
+48,QuickCart X,Cascade Apps,email marketing,12/9/2022,No,19.99
+49,MagicConnect X,Northern Star Group,SEO,5/20/2021,No,19.99
+50,TopOrder AI,Vanguard Group,Marketing,2/1/2023,Yes,
+51,MegaSales AI,Echo Apps,Inventory Management,2/16/2020,Yes,
+52,MegaSearch Plus,BrightWave Apps,Productivity,1/9/2021,Yes,
+53,EasyEmail Pro,Fortis Labs,email marketing,2/11/2018,No,9.99
+54,BoostBuild App,Linear Software,SEO,8/5/2022,Yes,
+55,MagicMind Lite,Cascade Systems,Productivity,2/11/2019,Yes,
+56,BrilliantInventory Flow,BlueRiver Solutions,REVIEWS AND RATINGS,5/27/2020,No,4.99
+57,MegaForge Plus,,Subscriptions,12/31/2022,No,49.99
+58,BrilliantStack AI,Sundial Systems,email marketing,2/6/2022,No,14.99
+59,BrilliantConnect Master,Acme Digital,email marketing,10/28/2019,Yes,
+60,BoostStack Pro,Peak Labs,Sales and Conversion,5/10/2019,No,19.99
+61,BoldForge AI,Acme Software,Inventory Management,3/30/2019,No,9.99
+62,MegaStack Master,Atlas Digital,Inventory Management,9/20/2019,Yes,
+63,ProStack Max,Echo Labs,orders and shipping,2/21/2022,No,49.99
+64,PowerSync Tool,Atlas Studios,Inventory Management,1/29/2018,No,9.99
+65,UltimateForge Plus,Acme Tech,search and navigation,9/7/2020,No,9.99
+66,EasyConnect AI,PixelPerfect Apps,STORE DESIGN,11/2/2018,No,14.99
+67,RapidHub Flow,Linear Labs,SEO,12/6/2020,Yes,
+68,FreshPilot Pro,Linear Software,SEO,3/2/2019,No,14.99
+69,MasterStack Plus,Echo Apps,Reporting and Analytics,7/11/2020,No,19.99
+70,PrimeReview Lite,Fortis Tech,SEO,6/9/2022,No,49.99
+71,ProStack Tool,Kestrel Studios,Inventory Management,8/20/2022,Yes,
+72,PrimeSync Max,Cascade Tech,REVIEWS AND RATINGS,1/10/2021,No,4.99
+73,SuperPilot Studio,Acme Software,orders and shipping,5/24/2023,No,99.99
+74,BoostMind Pro,,search and navigation,11/28/2020,No,14.99
+75,BoldReview AI,Atlas Systems,Customer Support,10/20/2019,No,99.99
+76,TopStack Pro,Sundial Software,Customer Support,6/1/2019,Yes,
+77,SleekShip Lite,Northern Star Digital,Reporting and Analytics,4/22/2018,Yes,
+78,PowerSearch 360,Vanguard Tech,search and navigation,12/9/2022,No,4.99
+79,MagicStack Pro,Northern Star Systems,Sales and Conversion,4/6/2019,No,4.99
+80,MagicPulse Max,Astra Systems,email marketing,9/15/2020,No,9.99
+81,PowerPilot 360,Beacon Studios,email marketing,5/23/2018,Yes,
+82,SmartSync Max,Vertex Digital,email marketing,11/1/2018,No,19.99
+83,RapidConnect AI,Quantum Labs,Productivity,5/5/2019,No,9.99
+84,TopConnect Lite,Kestrel Studios,search and navigation,5/30/2023,Yes,
+85,ProBox Plus,Peak Digital,Marketing,1/19/2022,Yes,
+86,SuperStack X,Quantum Digital,email marketing,1/13/2021,Yes,
+87,ProInventory AI,,Marketing,4/5/2018,Yes,
+88,MegaMind Lite,Echo Studios,STORE DESIGN,6/11/2018,No,19.99
+89,FreshSales Tool,Sundial Tech,search and navigation,6/7/2019,No,99.99
+90,AceMind Studio,Kestrel Systems,Productivity,5/28/2019,No,14.99
+91,BoldInventory Tool,Cascade Solutions,Loyalty and Rewards,8/29/2019,No,14.99
+92,QuickPilot Max,BrightWave Tech,SEO,6/25/2022,Yes,
+93,PowerPilot Studio,Ironwood Studios,Subscriptions,7/18/2018,No,49.99
+94,SuperHub App,Zenith Studios,SEO,1/9/2021,No,14.99
+95,MasterSearch AI,Vertex Solutions,SEO,8/24/2018,No,4.99
+96,RapidBuild Plus,Cascade Apps,Inventory Management,1/3/2021,Yes,
+97,BoostMind X,Kestrel Solutions,Sales and Conversion,10/14/2021,Yes,
+98,PrimeSync Lite,Evergreen Software,STORE DESIGN,4/3/2018,No,14.99
+99,TopBox Master,Ironwood Group,Reporting and Analytics,4/17/2021,No,9.99
+100,BoostEmail Max,Atlas Labs,search and navigation,6/29/2020,No,99.99
+101,AceEmail X,Astra Labs,Sales and Conversion,4/28/2023,No,19.99
+102,QuickEdit Tool,Vanguard Labs,Sales and Conversion,8/27/2022,No,9.99
+103,GeniusEdit App,Linear Apps,Inventory Management,10/25/2022,No,9.99
+104,UltimateShip Master,Fortis Solutions,Marketing,12/23/2018,Yes,
+105,ProReview AI,Sundial Solutions,REVIEWS AND RATINGS,4/30/2021,Yes,
+106,SleekSync AI,Kestrel Apps,Marketing,9/7/2020,No,19.99
+107,PrimeReview Plus,Quantum Studios,Sales and Conversion,9/16/2018,Yes,
+108,SleekSync AI,Peak Systems,Sales and Conversion,6/13/2022,No,99.99
+109,RapidCart X,Sundial Labs,Reporting and Analytics,11/26/2019,No,19.99
+110,AceSales Lite,BrightWave Software,Sales and Conversion,8/31/2022,Yes,
+111,AceSales 360,BlueRiver Group,REVIEWS AND RATINGS,11/7/2019,No,19.99
+112,QuickSync Flow,Vertex Solutions,Sales and Conversion,3/29/2021,No,9.99
+113,ProBuild 360,Atlas Software,SEO,7/25/2019,No,99.99
+114,RapidShip Flow,Ironwood Tech,Marketing,1/5/2019,Yes,
+115,UltimateMind Lite,Cascade Software,STORE DESIGN,2/26/2022,No,4.99
+116,MasterBuild Studio,Beacon Solutions,SEO,4/13/2023,No,4.99
+117,BrilliantEmail Lite,PixelPerfect Tech,search and navigation,9/17/2021,No,29.99
+118,MegaInventory Studio,Ironwood Digital,REVIEWS AND RATINGS,9/28/2021,Yes,
+119,ProShip AI,Beacon Systems,STORE DESIGN,9/22/2018,Yes,
+120,EasyConnect Max,BlueRiver Systems,Marketing,7/30/2020,No,99.99
+121,TopHub Studio,Nimbus Systems,Marketing,6/2/2023,Yes,
+122,EasyHub Plus,Fortis Systems,Loyalty and Rewards,3/31/2020,No,19.99
+123,EasyPulse Lite,Nimbus Group,REVIEWS AND RATINGS,2/2/2019,No,14.99
+124,MasterPilot App,Helix Software,STORE DESIGN,5/3/2023,No,19.99
+125,FreshBox Lite,GoldStandard Solutions,email marketing,6/12/2023,No,9.99
+126,FreshEmail Master,Peak Software,Inventory Management,8/3/2020,No,4.99
+127,EasyPilot Flow,Peak Systems,search and navigation,4/3/2021,No,99.99
+128,SleekSales Pro,Sundial Software,SEO,1/16/2023,No,49.99
+129,QuickTrack Max,Sundial Digital,REVIEWS AND RATINGS,12/6/2020,No,14.99
+130,BrilliantEmail Lite,Kestrel Solutions,Sales and Conversion,11/7/2019,Yes,
+131,BrilliantSales Master,PixelPerfect Studios,Customer Support,9/28/2019,No,49.99
+132,RapidConnect Lite,Quantum Studios,Subscriptions,12/10/2021,No,49.99
+133,MagicOrder Tool,Quantum Digital,orders and shipping,4/9/2019,No,9.99
+134,TopSales App,Echo Studios,Productivity,6/15/2020,Yes,
+135,PrimePilot Studio,Helix Digital,orders and shipping,12/29/2020,Yes,
+136,PrimeBox Studio,Helix Systems,REVIEWS AND RATINGS,12/16/2020,No,9.99
+137,BoldBuild 360,Nimbus Group,email marketing,9/13/2018,Yes,
+138,MegaReview Tool,Sundial Solutions,Marketing,4/29/2020,Yes,
+139,EasyBuild Tool,,Sales and Conversion,9/15/2022,No,14.99
+140,UltimateForge AI,Linear Apps,Sales and Conversion,2/8/2018,Yes,
+141,BrilliantPulse X,Nimbus Tech,orders and shipping,9/9/2019,Yes,
+142,BoldPilot 360,Acme Group,Loyalty and Rewards,5/11/2019,No,14.99
+143,GeniusMind X,Echo Software,REVIEWS AND RATINGS,6/20/2023,Yes,
+144,SmartConnect AI,BlueRiver Systems,Customer Support,6/4/2019,No,14.99
+145,ProMind Max,Helix Solutions,STORE DESIGN,4/1/2018,Yes,
+146,BoldOrder App,PixelPerfect Digital,Marketing,8/24/2019,Yes,
+147,TopStack AI,Astra Apps,SEO,8/17/2021,Yes,
+148,ProBuild X,Cascade Digital,Reporting and Analytics,11/26/2019,No,19.99
+149,SleekSearch Plus,Beacon Systems,Sales and Conversion,5/31/2020,No,99.99
+150,MagicSync AI,,STORE DESIGN,11/13/2021,No,19.99
+151,MasterShip App,Linear Digital,Marketing,9/16/2018,Yes,
+152,BrilliantSales Lite,Sundial Solutions,Customer Support,6/28/2020,No,29.99
+153,SuperSearch Tool,Nimbus Apps,Productivity,1/17/2019,No,19.99
+154,BoldCart Plus,Vanguard Software,search and navigation,12/20/2018,No,19.99
+155,RapidStack Studio,Vertex Studios,Productivity,12/24/2021,No,49.99
+156,UltimateTrack AI,Acme Solutions,REVIEWS AND RATINGS,3/18/2021,Yes,
+157,BrilliantReview Plus,Vertex Systems,Productivity,1/12/2022,No,19.99
+158,EasyBox AI,Ironwood Group,Customer Support,9/20/2018,No,99.99
+159,UltimateHub 360,BlueRiver Software,REVIEWS AND RATINGS,11/10/2018,Yes,
+160,RapidSearch App,Kestrel Tech,Loyalty and Rewards,12/28/2020,Yes,
+161,FreshSales App,Ironwood Solutions,email marketing,3/8/2023,No,99.99
+162,SmartForge Lite,Northern Star Tech,Subscriptions,5/14/2023,Yes,
+163,TopSync AI,PixelPerfect Apps,STORE DESIGN,6/19/2020,No,19.99
+164,AceConnect App,Helix Solutions,REVIEWS AND RATINGS,2/24/2021,Yes,
+165,PrimeTrack App,Nimbus Apps,Inventory Management,4/21/2023,Yes,
+166,SuperMind Max,,SEO,11/23/2018,No,29.99
+167,BoldShip Plus,Cascade Group,search and navigation,6/3/2023,Yes,
+168,BoldSync 360,Acme Software,Reporting and Analytics,10/2/2018,No,49.99
+169,QuickConnect Pro,GoldStandard Group,orders and shipping,1/13/2020,No,4.99
+170,BrilliantPilot Plus,Vanguard Software,Reporting and Analytics,2/4/2020,No,14.99
+171,UltimateCart Flow,Peak Systems,REVIEWS AND RATINGS,3/24/2018,Yes,
+172,BrilliantPulse App,Quantum Solutions,STORE DESIGN,3/15/2020,No,49.99
+173,SleekPulse 360,BrightWave Tech,search and navigation,7/29/2022,Yes,
+174,SmartPilot AI,Astra Labs,Productivity,4/16/2018,No,9.99
+175,TopSales Lite,Fortis Apps,Loyalty and Rewards,4/26/2023,No,9.99
+176,MegaPulse Flow,BrightWave Apps,Productivity,10/10/2018,No,29.99
+177,SleekConnect Master,Echo Digital,REVIEWS AND RATINGS,12/3/2019,No,49.99
+178,BrilliantForge Tool,Fortis Tech,REVIEWS AND RATINGS,9/4/2019,Yes,
+179,MagicCart Max,Compass Digital,Customer Support,9/9/2020,Yes,
+180,TopBuild App,,Inventory Management,5/11/2023,No,14.99
+181,RapidSearch 360,Compass Tech,STORE DESIGN,8/12/2018,No,29.99
+182,SuperForge Plus,Ironwood Studios,Marketing,5/30/2023,No,9.99
+183,BoldForge Lite,Zenith Tech,Customer Support,8/8/2019,No,99.99
+184,QuickOrder X,Echo Apps,email marketing,3/24/2020,No,9.99
+185,UltimatePulse AI,Astra Labs,SEO,8/19/2018,Yes,
+186,SuperSync Flow,Ironwood Labs,STORE DESIGN,6/5/2021,No,19.99
+187,EasyConnect Lite,Nimbus Studios,STORE DESIGN,9/4/2020,Yes,
+188,SuperSync Flow,Beacon Apps,Inventory Management,8/31/2021,Yes,
+189,PrimeSync App,Cascade Group,Productivity,4/26/2022,Yes,
+190,UltimateBox Max,Linear Solutions,Reporting and Analytics,12/8/2021,No,19.99
+191,PowerTrack Lite,Helix Software,REVIEWS AND RATINGS,7/3/2020,No,14.99
+192,SleekCart Flow,Northern Star Studios,STORE DESIGN,11/3/2019,No,19.99
+193,FreshForge Plus,Peak Digital,SEO,4/24/2018,No,29.99
+194,MagicShip X,Astra Apps,Productivity,3/23/2019,No,4.99
+195,RapidEmail Plus,BrightWave Apps,Inventory Management,4/17/2020,Yes,
+196,AceConnect AI,Cascade Systems,Sales and Conversion,10/30/2021,No,99.99
+197,AceInventory App,Northern Star Systems,REVIEWS AND RATINGS,9/18/2018,No,9.99
+198,RapidHub 360,Cascade Labs,orders and shipping,8/1/2020,Yes,
+199,MegaPilot Pro,Fortis Labs,Sales and Conversion,7/26/2018,No,19.99
+200,TopBox Tool,,SEO,11/4/2022,No,9.99
+201,FreshEdit Flow,Linear Solutions,orders and shipping,9/11/2019,No,49.99
+202,FreshOrder Lite,Ironwood Systems,REVIEWS AND RATINGS,10/12/2020,Yes,
+203,TopPulse Master,Compass Systems,Reporting and Analytics,11/2/2018,Yes,
+204,UltimateBox Pro,Northern Star Systems,Reporting and Analytics,2/15/2021,No,19.99
+205,EasyBox Master,PixelPerfect Group,Productivity,8/26/2022,Yes,
+206,PowerMind Max,Ironwood Group,orders and shipping,9/8/2020,Yes,
+207,SmartCart Tool,Beacon Software,Productivity,3/25/2022,No,9.99
+208,SuperSync X,Sundial Group,Subscriptions,1/6/2020,Yes,
+209,PrimeInventory Max,BrightWave Solutions,orders and shipping,1/30/2020,Yes,
+210,PowerEdit Tool,Cascade Labs,search and navigation,2/1/2021,No,49.99
+211,BoldForge AI,Echo Solutions,STORE DESIGN,10/14/2018,No,19.99
+212,QuickShip X,Vanguard Labs,Sales and Conversion,12/19/2021,Yes,
+213,QuickPilot Lite,Ironwood Digital,Subscriptions,9/26/2020,Yes,
+214,RapidSync Pro,Peak Systems,SEO,4/9/2023,No,4.99
+215,GeniusCart Flow,Peak Tech,email marketing,12/27/2019,Yes,
+216,GeniusSync Lite,PixelPerfect Apps,Sales and Conversion,4/10/2020,Yes,
+217,SmartOrder Plus,BrightWave Systems,Subscriptions,5/26/2022,Yes,
+218,BoostStack Flow,Ironwood Apps,STORE DESIGN,3/18/2023,No,4.99
+219,TopReview Studio,Echo Labs,Loyalty and Rewards,9/6/2022,No,49.99
+220,EasyPulse Max,Atlas Apps,Sales and Conversion,6/14/2020,Yes,
+221,BrilliantPilot X,Helix Solutions,Marketing,7/22/2021,Yes,
+222,BrilliantSync Tool,Compass Software,Sales and Conversion,7/3/2019,Yes,
+223,TopEdit Master,Nimbus Software,Marketing,4/16/2023,Yes,
+224,PrimeStack 360,,Sales and Conversion,2/23/2018,Yes,
+225,SuperConnect Pro,Vertex Systems,Reporting and Analytics,5/15/2022,Yes,
+226,BoldSales Plus,,Inventory Management,5/12/2020,Yes,
+227,GeniusForge Flow,Linear Labs,search and navigation,8/8/2018,Yes,
+228,SuperBox Master,Evergreen Studios,Inventory Management,10/19/2019,No,49.99
+229,TopEdit Studio,Beacon Digital,Loyalty and Rewards,5/21/2022,Yes,
+230,FreshCart Flow,Northern Star Studios,Subscriptions,4/22/2022,No,49.99
+231,PrimeSync Max,PixelPerfect Systems,Subscriptions,10/19/2020,Yes,
+232,TopReview AI,Linear Digital,Loyalty and Rewards,3/31/2020,No,99.99
+233,AceStack Flow,Kestrel Software,Sales and Conversion,4/24/2022,Yes,
+234,TopEdit X,Nimbus Apps,Sales and Conversion,6/14/2019,Yes,
+235,FreshTrack AI,Atlas Systems,search and navigation,5/1/2022,No,49.99
+236,MegaReview Plus,Beacon Studios,Customer Support,10/1/2019,Yes,
+237,AceForge Plus,Sundial Digital,Customer Support,5/18/2018,Yes,
+238,MasterTrack 360,Echo Group,STORE DESIGN,11/9/2019,No,19.99
+239,MasterOrder Lite,Ironwood Systems,Reporting and Analytics,3/1/2018,No,9.99
+240,BoostReview Flow,Nimbus Group,STORE DESIGN,1/20/2020,Yes,
+241,BoldPulse Lite,Quantum Systems,Loyalty and Rewards,3/14/2020,No,14.99
+242,MagicPilot Flow,PixelPerfect Studios,Customer Support,8/30/2018,Yes,
+243,UltimatePulse X,Evergreen Studios,Loyalty and Rewards,2/25/2020,No,19.99
+244,RapidOrder AI,Vertex Studios,STORE DESIGN,10/7/2019,No,29.99
+245,SmartForge App,Zenith Systems,REVIEWS AND RATINGS,11/1/2020,No,19.99
+246,EasyMind Pro,Helix Labs,Inventory Management,3/8/2018,Yes,
+247,PrimeMind Max,Helix Digital,REVIEWS AND RATINGS,11/12/2020,Yes,
+248,PrimeStack Tool,Evergreen Software,Productivity,8/27/2022,No,9.99
+249,EasyBox Plus,Helix Labs,orders and shipping,7/19/2022,No,49.99
+250,UltimateCart Tool,BlueRiver Solutions,REVIEWS AND RATINGS,7/30/2019,No,9.99
+251,MagicMind Studio,Peak Software,STORE DESIGN,5/26/2023,No,19.99
+252,SuperTrack Lite,Cascade Digital,STORE DESIGN,3/28/2021,No,49.99
+253,EasyConnect 360,Beacon Tech,Productivity,4/2/2023,No,19.99
+254,EasyBox Lite,Ironwood Solutions,email marketing,5/10/2018,No,19.99
+255,PowerForge Studio,,Customer Support,1/25/2021,No,29.99
+256,AceSearch Plus,Atlas Studios,Marketing,3/22/2020,No,49.99
+257,EasyInventory Pro,Zenith Digital,Sales and Conversion,9/29/2018,No,29.99
+258,UltimateForge Plus,Fortis Systems,Sales and Conversion,2/5/2022,No,4.99
+259,UltimateConnect App,Kestrel Studios,Sales and Conversion,12/22/2020,No,29.99
+260,UltimateHub Flow,Ironwood Digital,email marketing,3/21/2019,Yes,
+261,MegaEdit App,Fortis Tech,Subscriptions,6/22/2018,Yes,
+262,SmartSync Tool,Peak Group,orders and shipping,3/12/2022,Yes,
+263,GeniusForge X,Nimbus Labs,search and navigation,7/30/2021,No,29.99
+264,MegaBuild 360,Ironwood Studios,SEO,8/22/2020,No,99.99
+265,SmartSearch Tool,BlueRiver Apps,SEO,3/26/2020,No,49.99
+266,RapidStack Flow,Vanguard Tech,Sales and Conversion,9/27/2019,Yes,
+267,FreshReview Studio,Compass Systems,Productivity,5/7/2023,No,4.99
+268,MasterInventory Pro,Compass Studios,Productivity,1/24/2018,Yes,
+269,BoostOrder Master,Vanguard Tech,Productivity,12/21/2022,Yes,
+270,BoostMind Lite,PixelPerfect Digital,search and navigation,11/12/2020,Yes,
+271,AceOrder Studio,Helix Software,Loyalty and Rewards,10/12/2021,No,9.99
+272,QuickStack Max,Beacon Systems,orders and shipping,10/22/2019,Yes,
+273,EasyMind Master,Nimbus Group,Subscriptions,1/22/2023,Yes,
+274,PrimeSync Studio,Quantum Software,REVIEWS AND RATINGS,7/24/2020,Yes,
+275,MagicPilot Tool,Sundial Solutions,Loyalty and Rewards,6/14/2023,No,99.99
+276,UltimateShip X,Acme Labs,REVIEWS AND RATINGS,12/11/2019,No,49.99
+277,ProCart 360,Fortis Systems,search and navigation,5/23/2023,Yes,
+278,EasyMind Plus,Peak Studios,Subscriptions,8/7/2022,Yes,
+279,UltimateTrack Studio,Astra Solutions,SEO,3/15/2020,No,49.99
+280,UltimateMind Plus,Vanguard Software,STORE DESIGN,7/9/2020,No,19.99
+281,PowerBox Studio,Sundial Tech,email marketing,9/3/2018,Yes,
+282,PowerEdit App,PixelPerfect Labs,Customer Support,3/22/2020,No,49.99
+283,MasterShip X,Sundial Group,Productivity,1/31/2021,Yes,
+284,GeniusSales Tool,Cascade Solutions,Subscriptions,7/14/2021,No,4.99
+285,EasyShip Plus,,SEO,9/21/2018,Yes,
+286,MegaOrder Master,Zenith Studios,Inventory Management,7/28/2019,No,9.99
+287,MegaStack AI,BlueRiver Software,Inventory Management,2/24/2020,Yes,
+288,TopBuild AI,Northern Star Digital,Customer Support,2/13/2023,No,14.99
+289,SuperPilot Tool,Acme Tech,Marketing,7/15/2022,No,29.99
+290,GeniusTrack Studio,Northern Star Apps,SEO,4/26/2023,Yes,
+291,MasterOrder Tool,GoldStandard Solutions,SEO,2/20/2022,No,29.99
+292,BoldStack Studio,Echo Digital,Marketing,7/4/2018,Yes,
+293,BoldShip Master,Linear Labs,SEO,9/25/2018,Yes,
+294,SleekBuild Plus,Atlas Systems,Loyalty and Rewards,7/26/2018,Yes,
+295,BoldEdit App,,Productivity,12/27/2022,No,99.99
+296,MagicSales App,Beacon Apps,Productivity,4/27/2023,No,99.99
+297,BoldSales Master,Beacon Software,orders and shipping,12/12/2019,No,9.99
+298,SmartSearch Tool,Fortis Software,Customer Support,6/10/2019,No,49.99
+299,MegaOrder X,BrightWave Systems,Customer Support,1/23/2021,Yes,
+300,QuickSync Pro,,Sales and Conversion,6/1/2018,Yes,
+301,EasyStack Plus,Quantum Digital,Productivity,3/5/2018,No,49.99
+302,RapidSearch Lite,Vertex Tech,orders and shipping,7/16/2018,Yes,
+303,UltimateEmail Master,Acme Systems,Sales and Conversion,8/27/2019,No,49.99
+304,MagicReview AI,Nimbus Tech,SEO,3/25/2020,No,49.99
+305,TopOrder Master,Cascade Solutions,STORE DESIGN,7/1/2020,Yes,
+306,UltimateInventory Plus,Ironwood Solutions,SEO,1/13/2021,No,99.99
+307,TopPulse X,Northern Star Digital,Loyalty and Rewards,12/11/2022,Yes,
+308,FreshPulse Flow,Ironwood Studios,Sales and Conversion,4/29/2023,No,9.99
+309,QuickHub Plus,,orders and shipping,8/12/2022,No,99.99
+310,EasyConnect 360,Cascade Group,Customer Support,10/21/2022,Yes,
+311,BrilliantMind 360,Evergreen Software,Reporting and Analytics,11/3/2018,Yes,
+312,FreshInventory Studio,Northern Star Solutions,Reporting and Analytics,6/25/2019,Yes,
+313,QuickOrder Studio,Cascade Studios,Loyalty and Rewards,5/31/2021,No,19.99
+314,AceShip Master,Vertex Tech,Inventory Management,9/23/2022,No,49.99
+315,PrimeEdit Studio,Beacon Systems,Loyalty and Rewards,8/15/2021,Yes,
+316,SleekBuild Pro,Peak Studios,Sales and Conversion,9/30/2019,No,19.99
+317,PrimeEmail Master,Compass Labs,Inventory Management,1/25/2020,No,29.99
+318,BoldPilot AI,Echo Digital,Loyalty and Rewards,2/3/2021,Yes,
+319,MagicShip X,BlueRiver Studios,email marketing,3/17/2021,No,9.99
+320,MegaPulse Pro,Helix Apps,search and navigation,2/10/2023,Yes,
+321,MagicSearch X,Cascade Solutions,search and navigation,6/1/2019,Yes,
+322,SmartPulse Lite,Atlas Group,Subscriptions,5/1/2021,No,14.99
+323,SuperSearch Lite,Quantum Tech,Inventory Management,9/5/2021,No,49.99
+324,BrilliantConnect Lite,Quantum Studios,Productivity,2/22/2018,No,14.99
+325,TopEmail Flow,Compass Labs,Customer Support,1/27/2022,No,49.99
+326,SleekSync App,Ironwood Group,STORE DESIGN,8/25/2019,Yes,
+327,RapidOrder Lite,Quantum Software,orders and shipping,12/29/2019,Yes,
+328,FreshSync AI,Nimbus Digital,Marketing,11/10/2022,No,29.99
+329,TopPulse Studio,Evergreen Apps,email marketing,10/16/2022,Yes,
+330,PrimeSales Master,Compass Studios,SEO,6/15/2018,No,49.99
+331,QuickShip AI,Astra Labs,SEO,5/4/2022,Yes,
+332,BrilliantHub Lite,Evergreen Systems,Reporting and Analytics,5/31/2023,No,4.99
+333,SuperPulse Tool,Acme Apps,Subscriptions,2/11/2022,Yes,
+334,FreshSync App,PixelPerfect Apps,Inventory Management,4/27/2023,Yes,
+335,SuperHub Lite,Vanguard Solutions,search and navigation,1/6/2020,No,9.99
+336,SmartMind 360,Echo Software,Customer Support,12/27/2021,No,4.99
+337,RapidPilot Pro,Linear Apps,Subscriptions,8/10/2018,No,4.99
+338,PowerShip Studio,Evergreen Software,Subscriptions,12/1/2020,Yes,
+339,ProPulse Max,Linear Software,Inventory Management,8/22/2018,No,19.99
+340,PowerBuild Max,Evergreen Tech,STORE DESIGN,3/22/2018,No,9.99
+341,GeniusShip Pro,Ironwood Software,Sales and Conversion,9/7/2022,No,19.99
+342,GeniusBox Studio,Astra Digital,Marketing,7/24/2018,No,99.99
+343,SuperHub Max,Nimbus Software,email marketing,4/2/2022,No,4.99
+344,PrimePilot Studio,Beacon Software,Customer Support,7/28/2022,Yes,
+345,PrimeSearch X,Compass Digital,SEO,5/13/2020,No,99.99
+346,MasterInventory X,GoldStandard Digital,SEO,3/11/2021,No,9.99
+347,BrilliantShip Lite,Beacon Studios,search and navigation,2/28/2023,No,19.99
+348,SleekMind Max,GoldStandard Labs,Subscriptions,11/24/2022,Yes,
+349,ProHub Lite,Beacon Labs,search and navigation,12/10/2019,No,49.99
+350,QuickShip Lite,Echo Group,email marketing,8/19/2020,No,99.99
+351,SuperTrack Master,Astra Apps,REVIEWS AND RATINGS,4/2/2019,No,19.99
+352,PrimeReview AI,Sundial Solutions,Sales and Conversion,10/15/2020,No,4.99
+353,RapidStack Pro,PixelPerfect Tech,REVIEWS AND RATINGS,2/25/2021,Yes,
+354,RapidPilot Flow,,Productivity,7/15/2020,Yes,
+355,SuperBuild Lite,Vertex Group,REVIEWS AND RATINGS,2/5/2020,No,4.99
+356,MegaInventory Studio,Linear Labs,orders and shipping,9/5/2018,No,19.99
+357,MegaEmail Lite,Ironwood Software,SEO,1/1/2023,No,49.99
+358,QuickStack X,GoldStandard Digital,REVIEWS AND RATINGS,5/19/2022,No,9.99
+359,UltimateInventory X,Ironwood Solutions,REVIEWS AND RATINGS,12/11/2022,Yes,
+360,PrimeSales App,Evergreen Group,Inventory Management,9/23/2022,No,99.99
+361,RapidCart Tool,Zenith Tech,Subscriptions,12/9/2019,No,9.99
+362,ProBuild 360,BrightWave Systems,Subscriptions,3/12/2022,No,29.99
+363,SmartPulse Plus,Acme Systems,STORE DESIGN,4/19/2018,No,9.99
+364,UltimateEmail Max,Vertex Labs,SEO,1/13/2021,Yes,
+365,RapidTrack Max,,Reporting and Analytics,5/2/2019,No,99.99
+366,TopHub Lite,Quantum Group,Marketing,1/27/2018,No,9.99
+367,PrimeTrack Lite,Compass Solutions,SEO,4/20/2021,No,29.99
+368,EasyOrder App,Beacon Group,Sales and Conversion,2/12/2020,Yes,
+369,MasterMind Studio,,search and navigation,12/24/2021,No,4.99
+370,BrilliantSync AI,GoldStandard Group,Customer Support,5/30/2018,No,14.99
+371,SleekReview 360,Echo Systems,REVIEWS AND RATINGS,1/4/2021,No,14.99
+372,PowerPilot 360,BrightWave Group,email marketing,3/21/2022,No,4.99
+373,GeniusPilot Flow,Fortis Apps,Subscriptions,12/19/2022,Yes,
+374,AcePulse 360,Sundial Digital,Marketing,8/31/2019,No,9.99
+375,ProOrder 360,Northern Star Apps,Subscriptions,5/15/2018,Yes,
+376,PowerStack Max,Beacon Systems,Subscriptions,7/31/2022,No,49.99
+377,EasyEmail App,Astra Group,Sales and Conversion,3/23/2021,No,14.99
+378,TopInventory 360,Acme Software,SEO,3/8/2022,No,49.99
+379,SleekInventory Studio,Ironwood Tech,Loyalty and Rewards,6/27/2018,Yes,
+380,MasterStack Tool,Vanguard Systems,SEO,6/22/2022,No,14.99
+381,AceShip 360,Northern Star Studios,Sales and Conversion,3/27/2018,Yes,
+382,AceCart X,Kestrel Group,STORE DESIGN,11/26/2018,Yes,
+383,ProOrder Lite,GoldStandard Apps,email marketing,3/19/2022,No,29.99
+384,ProCart Max,GoldStandard Digital,Customer Support,1/2/2020,Yes,
+385,BrilliantReview Tool,Quantum Digital,search and navigation,11/4/2019,No,14.99
+386,MegaOrder Pro,Quantum Labs,SEO,3/30/2019,No,49.99
+387,UltimateEdit AI,Sundial Digital,Customer Support,5/6/2022,Yes,
+388,UltimateStack Tool,Astra Software,Productivity,6/4/2018,No,99.99
+389,FreshMind X,,Marketing,2/3/2021,Yes,
+390,TopTrack Flow,Beacon Tech,STORE DESIGN,8/9/2020,No,4.99
+391,GeniusPilot Lite,Echo Group,STORE DESIGN,7/2/2020,Yes,
+392,BoldBuild Pro,Fortis Digital,orders and shipping,5/9/2018,Yes,
+393,SleekBuild X,BrightWave Digital,Marketing,3/23/2018,No,14.99
+394,FreshOrder X,Kestrel Systems,Customer Support,4/18/2021,No,99.99
+395,GeniusPulse X,Atlas Solutions,search and navigation,6/12/2022,No,29.99
+396,UltimateOrder App,Atlas Software,Subscriptions,4/17/2019,No,14.99
+397,BoldForge Tool,GoldStandard Studios,Subscriptions,9/3/2022,No,9.99
+398,QuickMind App,BlueRiver Studios,Inventory Management,3/5/2023,Yes,
+399,MagicReview Tool,Sundial Digital,email marketing,9/13/2020,Yes,
+400,MasterPilot Lite,Peak Tech,STORE DESIGN,1/23/2022,No,19.99
+401,TopConnect App,Nimbus Apps,orders and shipping,12/6/2020,No,29.99
+402,BrilliantPilot Pro,Northern Star Group,SEO,8/29/2018,Yes,
+403,RapidShip Lite,Kestrel Systems,REVIEWS AND RATINGS,5/11/2020,Yes,
+404,TopBuild Flow,,Reporting and Analytics,10/2/2018,Yes,
+405,RapidHub Studio,Zenith Apps,Productivity,3/3/2022,No,29.99
+406,SuperHub Master,Nimbus Studios,Reporting and Analytics,8/27/2021,No,14.99
+407,AcePilot Studio,Ironwood Systems,SEO,2/22/2019,No,99.99
+408,MagicMind Master,Helix Systems,Productivity,10/10/2018,No,49.99
+409,MasterInventory Tool,Peak Systems,SEO,11/25/2019,No,29.99
+410,SmartReview App,BrightWave Systems,Sales and Conversion,5/12/2018,Yes,
+411,TopConnect Flow,Kestrel Group,Inventory Management,12/28/2021,No,4.99
+412,SleekSync Tool,BlueRiver Group,REVIEWS AND RATINGS,12/1/2021,Yes,
+413,TopConnect Flow,Zenith Group,Marketing,2/18/2022,No,4.99
+414,AceSearch Tool,Linear Labs,search and navigation,3/20/2023,No,4.99
+415,ProStack Plus,Peak Tech,Customer Support,4/24/2023,Yes,
+416,BoostBox X,GoldStandard Digital,SEO,5/14/2019,No,99.99
+417,FreshShip AI,Nimbus Tech,Sales and Conversion,2/23/2020,No,9.99
+418,SleekStack Pro,Compass Tech,orders and shipping,8/12/2019,Yes,
+419,EasyStack App,BrightWave Solutions,Customer Support,3/24/2019,No,14.99
+420,PowerTrack Max,Fortis Tech,orders and shipping,4/15/2019,Yes,
+421,UltimateInventory Plus,PixelPerfect Digital,Loyalty and Rewards,1/14/2018,No,29.99
+422,FreshSearch AI,Echo Group,Inventory Management,3/25/2020,Yes,
+423,MegaForge 360,BlueRiver Group,Customer Support,3/17/2020,No,99.99
+424,PowerConnect Flow,Nimbus Solutions,Customer Support,6/8/2021,No,9.99
+425,BoldPilot Master,Atlas Studios,search and navigation,5/18/2020,Yes,
+426,MasterMind App,GoldStandard Labs,email marketing,7/24/2018,No,99.99
+427,TopCart App,Beacon Studios,search and navigation,7/9/2022,Yes,
+428,RapidEdit AI,Vertex Tech,REVIEWS AND RATINGS,10/25/2022,No,19.99
+429,PowerSearch AI,Kestrel Software,search and navigation,3/5/2022,Yes,
+430,SmartHub Plus,Atlas Labs,Loyalty and Rewards,3/25/2021,No,29.99
+431,BoldBox Plus,Cascade Tech,search and navigation,7/17/2021,No,99.99
+432,EasyReview App,Quantum Labs,Customer Support,10/11/2019,No,49.99
+433,BoostBox Master,,search and navigation,4/27/2020,Yes,
+434,EasyCart App,Cascade Software,Sales and Conversion,5/11/2018,No,19.99
+435,TopPulse Plus,Nimbus Tech,Loyalty and Rewards,11/15/2018,Yes,
+436,PrimeSales App,Peak Studios,Marketing,3/13/2018,No,99.99
+437,BoostStack AI,Vanguard Group,STORE DESIGN,4/25/2021,No,49.99
+438,BoldStack Tool,PixelPerfect Digital,Inventory Management,1/20/2020,No,9.99
+439,SmartForge AI,Vertex Apps,SEO,5/31/2020,No,29.99
+440,MasterConnect X,Fortis Tech,Sales and Conversion,5/14/2020,No,29.99
+441,MagicStack Studio,Evergreen Labs,email marketing,5/21/2018,Yes,
+442,BrilliantForge Tool,Quantum Apps,STORE DESIGN,4/12/2018,No,4.99
+443,BoostSales Max,Sundial Apps,orders and shipping,7/4/2018,Yes,
+444,AceBox Max,BlueRiver Solutions,Sales and Conversion,9/24/2022,No,9.99
+445,PowerSearch X,Acme Software,SEO,1/3/2022,Yes,
+446,PrimeInventory 360,Ironwood Labs,search and navigation,3/7/2020,No,14.99
+447,RapidPulse Plus,Astra Digital,Subscriptions,9/4/2019,Yes,
+448,MasterSearch Flow,Nimbus Systems,SEO,5/13/2019,Yes,
+449,AceReview Tool,Echo Digital,Sales and Conversion,11/5/2021,No,99.99
+450,ProSales AI,Fortis Solutions,REVIEWS AND RATINGS,6/3/2022,No,14.99
+451,PowerShip Max,Cascade Solutions,Productivity,10/3/2018,Yes,
+452,RapidBuild Master,Beacon Digital,Inventory Management,11/12/2022,No,99.99
+453,UltimateBox Studio,Astra Group,Customer Support,7/18/2020,Yes,
+454,AcePilot Tool,Quantum Software,Subscriptions,6/4/2023,No,19.99
+455,RapidSales Flow,Vertex Solutions,Reporting and Analytics,8/5/2021,Yes,
+456,MasterEmail Tool,Nimbus Digital,orders and shipping,7/22/2018,Yes,
+457,BoldPulse Flow,Compass Tech,Marketing,1/21/2020,Yes,
+458,MegaBuild Max,BlueRiver Tech,REVIEWS AND RATINGS,3/25/2018,No,99.99
+459,PowerCart 360,Ironwood Labs,Loyalty and Rewards,7/4/2021,No,29.99
+460,AceBox Max,,Sales and Conversion,12/8/2018,No,29.99
+461,MasterStack Flow,Sundial Solutions,Customer Support,1/31/2021,No,14.99
+462,SuperPilot Tool,GoldStandard Group,orders and shipping,2/8/2020,No,49.99
+463,QuickSync Flow,Acme Group,STORE DESIGN,12/29/2022,Yes,
+464,BoostStack 360,Northern Star Studios,Sales and Conversion,3/19/2018,No,9.99
+465,FreshTrack Tool,Astra Tech,Sales and Conversion,3/14/2021,Yes,
+466,FreshInventory Flow,Kestrel Tech,Marketing,2/5/2022,No,19.99
+467,MegaHub Plus,Helix Labs,Productivity,8/29/2021,No,4.99
+468,SuperStack Flow,Vanguard Solutions,REVIEWS AND RATINGS,11/30/2021,Yes,
+469,BrilliantMind 360,PixelPerfect Labs,Reporting and Analytics,8/17/2019,No,9.99
+470,SleekHub Max,Vanguard Studios,search and navigation,2/19/2021,Yes,
+471,RapidPilot Max,Peak Labs,orders and shipping,5/27/2018,Yes,
+472,MegaHub Master,Atlas Labs,Customer Support,12/7/2019,No,4.99
+473,AcePilot AI,Linear Studios,search and navigation,4/2/2018,No,9.99
+474,ProEmail Tool,Linear Studios,email marketing,9/1/2022,No,4.99
+475,MagicBox AI,Acme Solutions,orders and shipping,2/24/2022,No,9.99
+476,UltimateShip X,GoldStandard Group,Marketing,6/8/2019,Yes,
+477,BrilliantSearch Pro,Sundial Apps,Sales and Conversion,3/6/2020,No,49.99
+478,TopTrack X,Peak Software,Customer Support,9/19/2020,No,29.99
+479,PrimeStack Max,Acme Apps,orders and shipping,3/4/2023,No,14.99
+480,AceSync Tool,Peak Tech,SEO,5/7/2018,No,19.99
+481,TopSales Plus,Beacon Systems,REVIEWS AND RATINGS,5/22/2023,No,99.99
+482,MagicPilot Master,Sundial Group,STORE DESIGN,2/28/2019,No,29.99
+483,UltimateSync Max,Compass Group,STORE DESIGN,5/30/2020,No,99.99
+484,ProOrder Master,Vanguard Apps,SEO,10/15/2019,No,19.99
+485,BoostSales Tool,Nimbus Studios,STORE DESIGN,2/23/2018,No,29.99
+486,GeniusShip Master,PixelPerfect Digital,STORE DESIGN,10/25/2020,No,19.99
+487,TopForge AI,Vanguard Studios,orders and shipping,4/9/2019,Yes,
+488,PowerReview App,Sundial Digital,Productivity,10/28/2019,No,9.99
+489,BrilliantConnect Max,Quantum Systems,Loyalty and Rewards,4/8/2023,No,29.99
+490,ProBox AI,BlueRiver Labs,REVIEWS AND RATINGS,1/6/2021,Yes,
+491,SleekEmail Tool,Vertex Digital,Reporting and Analytics,12/17/2022,Yes,
+492,QuickPulse App,,Sales and Conversion,1/19/2022,No,9.99
+493,MegaEdit AI,Acme Studios,search and navigation,4/23/2021,No,9.99
+494,ProReview Plus,Compass Digital,Subscriptions,1/14/2020,Yes,
+495,SleekPilot App,Cascade Group,Reporting and Analytics,3/31/2018,No,14.99
+496,MasterEmail X,Vertex Tech,Productivity,4/24/2022,No,14.99
+497,UltimateCart Pro,Linear Tech,Marketing,7/28/2020,No,19.99
+498,FreshForge AI,Evergreen Digital,Sales and Conversion,5/16/2021,No,9.99
+499,RapidCart Pro,Echo Studios,Marketing,8/30/2021,Yes,
+500,ProHub App,Echo Tech,Loyalty and Rewards,9/15/2021,No,29.99
